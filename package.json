@@ -75,7 +75,7 @@
     "deep-diff": "~1.0.2",
     "diff": "^9.0.0",
     "es-main": "~1.4.0",
-    "eslint": "~9.39.1",
+    "eslint": "~10.6.0",
     "eslint-plugin-import": "~2.32.0",
     "eslint-plugin-jsdoc": "~63.0.0",
     "eslint-plugin-node": "~11.1.0",
